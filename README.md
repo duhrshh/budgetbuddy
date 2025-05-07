@@ -20,6 +20,3 @@ python app.py
 - Flask
 - SQLite
 - HTML/CSS (Jinja2 templates)
-
-## License
-MIT License
